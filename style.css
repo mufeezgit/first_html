@@ -1,0 +1,15 @@
+#lith{
+    text-align: center;
+}
+textarea{
+    height: 200px;
+    width: 500px;
+    
+}
+#submit{
+    font-size: 30px;
+}
+#link{
+    text-decoration: none;
+    
+}
